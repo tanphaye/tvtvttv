@@ -88,6 +88,22 @@ CCTV-5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/
 求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 
+咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
+咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+足球高清,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+健康养生,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+百变课堂,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+看天下精选,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+电竞天堂,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+百事通4K电影,http://222.65.21.143:4022/udp/239.45.1.42:5140
+百事通4K纪实,http://222.65.21.143:4022/udp/239.45.1.10:5140
+百事通4K儿童,http://222.65.21.143:4022/udp/239.45.1.1:5140
 
 湖南经视,http://[2409:8087:5050:20::3023]/000000001000/HD-8000k-1080P-hunanjingshi/index.m3u8
 湖南娱乐,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
@@ -119,7 +135,21 @@ CCTV-5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/
 黑龙江卫视 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 乐游频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+斗鱼云旅游2,http://epg.112114.xyz/douyu/6563725
 
+斗鱼电影2,http://epg.112114.xyz/douyu/9650887
+斗鱼电影3,http://epg.112114.xyz/douyu/36337
+斗鱼电影5,http://epg.112114.xyz/douyu/6140589
+斗鱼电影6,http://epg.112114.xyz/douyu/20415
+斗鱼电影8,http://epg.112114.xyz/douyu/9292492
+斗鱼电影9,http://epg.112114.xyz/douyu/2516864
+斗鱼电影11,http://epg.112114.xyz/douyu/9651304
+斗鱼电影12,http://epg.112114.xyz/douyu/8814650
+斗鱼电影14,http://epg.112114.xyz/douyu/252802
+斗鱼电视剧HD1,http://epg.112114.xyz/douyu/2838296
+斗鱼电视剧HD2,http://epg.112114.xyz/douyu/7489563
+斗鱼电视剧HD3,http://epg.112114.xyz/douyu/6706214
+斗鱼电视剧HD4,http://epg.112114.xyz/douyu/6566658
 
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
