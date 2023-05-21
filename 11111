@@ -141,6 +141,10 @@ VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+CCTV-4K,http://cntv.sbs/ipv6?id=ys4Kcq_2000
+CCTV16-4K,http://cntv.sbs/ipv6?id=CCTV-16-4K_8000
+纯享超清,http://cntv.sbs/ipv6?id=emdy4k_8000
+4K超高清电影,http://cntv.sbs/ipv6?id=emdy4k_8000
 CCTV3 4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
