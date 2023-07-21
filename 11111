@@ -117,16 +117,8 @@ CCTV-5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/
 长沙新综,http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000008000000047429/main.m3u8
 
 翡翠,http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
-明珠,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
 CCTV4K,http://60.208.16.27:1505/gudou.php?id=364&id=4005
-CCTV16-4K,http://60.208.16.27:1505/gudou.php?id=364&id=4010
-广东影视,http://60.208.16.27:1505/gudou.php?id=364&id=1458_4500
-广东体育HD,http://60.208.16.27:1505/gudou.php?id=364&id=gdsportsHD_7000
-广东体育HD,http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
 广东综艺4K,http://60.208.16.27:1505/gudou.php?id=364&id=GDZYHD4K_38000
-魅力足球,http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
-劲爆体育,http://60.208.16.27:1505/gudou.php?id=364&id=jinbaotiyuHD_7000
-广东珠江,http://60.208.16.27:1505/gudou.php?id=364&id=gdzhujiangHD_7500
 
 
 
@@ -169,11 +161,11 @@ CCTV16-4K,http://60.208.16.27:1505/gudou.php?id=364&id=4010
 
 
 
-NHK世界，https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-CNA新闻，https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛新闻，http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-中国环球，http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-环球纪录，http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+中国环球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+环球纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
@@ -224,7 +216,7 @@ CCTV1 4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
 4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
 4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
-CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230934/1.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230957/1.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230984/1.m3u8
