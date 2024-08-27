@@ -3,12 +3,32 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        "wei4xi3nsxy.com",
+        "wxa234pp.tc.qq.com"
       ]
     },
     {
       "domain_suffix": [
+        ".hdsky.me",
+        ".hdchina.org",
+        ".keepfrds.com",
+        ".totheglory.im",
+        ".springsunday.net",
+        ".m-team.io",
+        ".m-team.cc",
+        ".chdbits.co",
+        ".ptchdbits.co",
+        ".chdbits.xyz",
+        ".discfan.net",
+        ".hdhome.org",
+        ".ccfbits.org",
+        ".0ff.cc",
+        ".xiaoya.pro",
+        ".hostloc.com",
+        ".ghproxy.com",
+        ".511110.xyz",
+        ".weixinsxy.com",
+        ".weixinsxy.com",
         ".weixinsxy.com",
         ".weixinsxy.com",
         ".weixinsxy.com",
@@ -19,14 +39,14 @@
     },
     {
       "domain_keyword": [
-        "cherrytv",
-        "cherr"
+        "112114",
+        "che3e4rrr"
       ]
     },
     {
       "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
+        "129.226.223.47/32",
+        "162.162.163.163/32"
       ]
     }
   ]
